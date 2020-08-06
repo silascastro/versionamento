@@ -11,9 +11,7 @@ struct lista
 
 
 int main(void){
-
-    
-
+    printf("HEllo World");
     return 0;
 }
 
