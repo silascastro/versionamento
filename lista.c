@@ -12,6 +12,7 @@ struct lista
 
 int main(void){
     printf("HEllo World");
+    int a, *p;
     return 0;
 }
 
